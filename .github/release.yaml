@@ -1,0 +1,29 @@
+---
+changelog:
+  exclude:
+    labels:
+      - ci
+
+  categories:
+
+    - title: 💥 Breaking Changes 🚨
+      labels:
+        - breaking-change
+
+    - title: ✨ New Features 🚀
+      labels:
+        - feature
+        - enhancement
+
+    - title: 🐞 Bug Fixes 🔧
+      labels:
+        - bug
+        - bugfix
+
+    - title: 📝 Documentation
+      labels:
+        - documentation
+
+    - title: 🤷 Other Changes 🤷
+      labels:
+        - "*"
