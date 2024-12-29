@@ -1,0 +1,27 @@
+---
+bug:
+  - head-branch: ['^fix', '^bugfix', 'bug', 'fix']
+
+bugfix:
+  - head-branch: ['^fix', '^bugfix', 'bug', 'fix']
+
+feature:
+  - head-branch: ['^feat', '^feature', 'feature']
+
+revert:
+  - head-branch: ['^revert', 'revert', '^rollback', 'rollback']
+
+rollback:
+  - head-branch: ['^rollback', 'rollback', '^revert', 'revert']
+
+ci:
+  - changed-files:
+      - any-glob-to-any-file: ['.github/**']
+
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: ['docs/**', '**/*.md']
+
+python:
+  - changed-files:
+      - any-glob-to-any-file: ['**.py']
