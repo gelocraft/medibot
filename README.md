@@ -1,5 +1,5 @@
-<h1 align="center">💊 Medibot 🤖</h1>
-<p align="center">Stay on track ⏱️  with your medication 💊 schedule 🗓️and get daily reminders ⏰ with Medibot 🤖 on Discord.</p>
+<h1 align="center">Medibot 🤖</h1>
+<p align="center"><b>Stay on track</b> ⏱️  with your medication schedule 🗓️ and <b>get daily reminders</b> ⏰ with Medibot 🤖 on Discord.</p>
 
 <div align="center">
     <a href="https://github.com/gelocraft/medibot/releases/latest">
